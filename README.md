@@ -22,3 +22,14 @@ Content
 train - the training folder that contains 33 subfolders in which training images for each fruit/vegetable are located. There is a total of 16854 images.
 test - the testing folder that contains 5641 testing images
 sampleSubmission.csv - a sample submission file in the correct format, with id number and string label
+
+## Bibliothèques utilisés
+- numpy
+- pandas
+- matplotlib
+- sklearn
+- glob
+- os
+- datetime
+- seaborn
+- cv2 (opencv)
