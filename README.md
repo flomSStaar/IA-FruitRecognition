@@ -1,5 +1,5 @@
 # IA-FruitRecognition
-Ce projet consiste à développer une intelligence artificielle permet de classifier des fruits grâce à une photo.
+Ce projet consiste à développer une intelligence artificielle permettant de classifier des fruits grâce à une photo.
 
 Lien vers le dataset: https://www.kaggle.com/sshikamaru/fruit-recognition
 
